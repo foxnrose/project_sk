@@ -1,0 +1,4 @@
+# 3. Log Level
+logging:
+  level:
+    root: info   #  error < info < debug
